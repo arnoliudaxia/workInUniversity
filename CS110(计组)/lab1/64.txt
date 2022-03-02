@@ -1,0 +1,18 @@
+Size of char: 1
+Size of short: 2
+Size of short int: 2
+Size of int: 4
+Size of long int: 8
+Size of unsigned int: 4
+Size of void *: 8
+Size of size_t: 8
+Size of float: 4
+Size of double: 8
+Size of __int8_t: 1
+Size of __int16_t: 2
+Size of __int32_t: 4
+Size of __int64_t: 8
+Size of time_t: 8
+Size of clock_t: 8
+Size of struct tm: 56
+Size of NULL: 8
