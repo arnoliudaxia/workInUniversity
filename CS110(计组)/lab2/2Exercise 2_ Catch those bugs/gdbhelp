@@ -1,0 +1,42 @@
+gcc -g 源文件.c -o 输出的目标文件
+gcc -g -o hello hello.c
+gdb hello
+
+
+
+
+
+启动
+（gdb）run：重新开始运行文件
+（gdb）quit：退出gdb,简写q
+（gdb）start：单步执行，运行程序，停在第一执行语句
+continue 继续
+
+（gdb）list：查看原代码（list-n,从第n行开始查看代码。list+ 函数名：查看具体函数）,简写l
+
+（gdb）set：设置变量的值
+（gdb）next：逐过程
+（gdb）step: 逐语句
+
+断点
+（gdb）break+num：在第num行设置断点,简写b
+（gdb）enable breakpoints：启用断点
+（gdb）disable breakpoints：禁用断点
+
+变量分析
+    info locals 当前局部变量
+
+临时计算
+print expression
+display/fmt expression
+参数 fmt 用于指定输出变量或表达式的格式
+/fmt	功 能
+/x	以十六进制的形式打印出整数。
+/d	以有符号、十进制的形式打印出整数。
+/u	以无符号、十进制的形式打印出整数。
+/o	以八进制的形式打印出整数。
+/t	以二进制的形式打印出整数。
+/f	以浮点数的形式打印变量或表达式的值。
+/c	以字符形式打印变量或表达式的值。
+
+上面两个的区别是print只会显示一次，而display相当于持续跟踪变量，每次暂停都会打印出来
