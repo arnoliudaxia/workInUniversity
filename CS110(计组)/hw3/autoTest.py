@@ -64,6 +64,7 @@ for testtime in range(20):
     print(randomstr2.replace(" ", ""))
     if output=="":
         print("Run out of steps!")
+        break
     elif rerfer != int(output):
         print("WRONG!!")
         break
