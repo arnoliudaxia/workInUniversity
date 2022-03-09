@@ -17,7 +17,11 @@ def LCstring(string1, string2):
     len2 = len(string2)
     result = 0
     dp = [[0 for i in range(len1 + 1)] for j in range(len2 + 1)]
-    # Attention! You need to implement it by yourself here. It's very very simple if you use dp.
+    for i in range(1,len2+1):
+        for j in range(1,len1+1):
+            if string2[i-1]==string1[j-1]:
+                dp[i][j]=dp[i-1][j-1]+1
+                result=max(result,dp[i][j])
     return result
 
 
