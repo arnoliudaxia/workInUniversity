@@ -1,0 +1,29 @@
+andi x9 x9 10
+andi x9 x9 -10
+beq x9 x0 WEJOWIO
+andi x10 x10 0
+andi x10 x10 22
+bne x10 x0 NIWOOIE
+andi x10 x10 -3
+j WEJOWIO
+srli x8 x8 20
+WEJOWIO:
+srli x9 x9 0
+srai x9 x9 20
+bne x8 x1 NIWOOIE
+srai x8 x8 0
+j WEJOWIO
+sw x10 10(x8)
+sw x9 9(x8)
+sw x8 0(x8)
+NIWOOIE:
+sw x10 3(x8)
+bne x8 x0 NIWOOIE
+lw x10 10(x8)
+lw x9 9(x8)
+lw x8 0(x8)
+bne x9 x0 NIWOOIE
+lw x10 3(x8)
+j WEJOWIO
+slli x6 x6 20
+slli x7 x7 0
