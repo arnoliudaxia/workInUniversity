@@ -1,2 +1,222 @@
-AES 128 @__@
-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
+#ifndef _GNU_SOURCE
+#define _GNU_SOURCE
+#endif
+
+#include "image.h"
+#include "scene.h"
+#include <stdbool.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <time.h>
+#include <pthread.h>
+/**
+ * @brief You never need to read this function.
+ * 
+ * @details Randomly generate a ray from camera.
+ */
+ray generate_ray(const ray *camera, unsigned short xi[3], 
+                  const int image_width, const int image_height, 
+                  const int x, const int y, 
+                  const vec3 *cx, const vec3 *cy, 
+                  const int sx, const int sy) {
+    /* For the current subpixel, randomly generate direction of the ray */
+    double r1 = 2 * erand48(xi);
+    double r2 = 2 * erand48(xi);
+    double dx = r1 < 1 ? sqrt(r1) - 1 : 1 - sqrt(2 - r1);
+    double dy = r2 < 1 ? sqrt(r2) - 1 : 1 - sqrt(2 - r2);
+    vec3 camera_ray_dir = vec3_unit(vec3_add(vec3_mulf(*cx, (((sx + .5 + dx) / 2 + x) / image_width - .5)),
+                                    vec3_add(vec3_mulf(*cy, (((sy + .5 + dy) / 2 + y) / image_height - .5)), camera->d)));
+    /* Shoot the ray from camera */
+    return ray_init(vec3_add(camera->o, vec3_mulf(camera_ray_dir, camera_offset)), camera_ray_dir); /* Offset = 140 is added to place the ray deep into the scene because the box-like walls are actually made of large spheres */
+}
+
+
+
+/**
+ * @brief You never need to read this function.
+ * 
+ * @details Ray-scene intersection test, return false if no intersection, 
+ *          otherwise record the nearest hit time into `t` and index of the corresponding sphere into `id`.
+ */
+bool intersect(const ray *r, double *t, int *id) {
+    const int n = sizeof(spheres) / sizeof(sphere);
+    const double inf = 1e20;
+    double d;
+    int i;
+    *t = inf;
+    for (i = n; i--; )
+        if ((d = sphere_intersect(r, &spheres[i])) && d < *t) {
+            *t = d;
+            *id = i;
+        }
+    return *t < inf;
+}
+
+
+
+/**
+ * @brief You never need to read this function.
+ * 
+ * @details Called recursively, trace the ray to spheres 
+ *          and return the color got by the ray.
+ */
+vec3 radiance(const ray r, int depth, unsigned short *xi) {
+    double t; /* Hit time */
+    int id = 0; /* ID of intersected object */
+    const sphere *obj;
+    vec3 x, n, nl, f;
+    double p;
+    if (depth > 10 || !intersect(&r, &t, &id)) /* If miss, return black */
+        return vec3_init(0, 0, 0);
+    obj = &spheres[id]; /* The hit object */
+    x = vec3_add(r.o, vec3_mulf(r.d, t));
+    n = vec3_unit(vec3_sub(x, obj->position));
+    nl = vec3_dot(n, r.d) < 0 ? n : vec3_mulf(n, -1);
+    f = obj->color;
+    p = f.x > f.y && f.x > f.z ? f.x : f.y > f.z ? f.y : f.z; /* Max extent as the absorption rate */
+    if (++depth > 5) { /* Russian roulette */
+        if (erand48(xi) < p)
+            f = vec3_mulf(f, 1 / p);
+        else
+            return obj->emission;
+    }
+    if (obj->material == DIFFUSE) { /* Ideal diffuse reflection */
+        double r1 = 2 * PI * erand48(xi), r2 = erand48(xi), r2s = sqrt(r2);
+        vec3 w = nl;
+        vec3 u = vec3_unit(vec3_cross(fabs(w.x) > .1 ? vec3_init(0, 1, 0) : vec3_init(1, 0, 0), w));
+        vec3 v = vec3_cross(w, u);
+        vec3 d = vec3_unit(vec3_add(vec3_mulf(u, cos(r1) * r2s), vec3_add(vec3_mulf(v, sin(r1) * r2s), vec3_mulf(w, sqrt(1 - r2)))));
+        return vec3_add(obj->emission, vec3_mul(f, radiance(ray_init(x, d), depth, xi)));
+    }
+    else if (obj->material == SPECULAR) { /* Ideal specular reflection */
+        return vec3_add(obj->emission, vec3_mul(f, radiance(ray_init(x, vec3_sub(r.d, vec3_mulf(n, (2 * vec3_dot(n, r.d))))), depth, xi))); 
+    }
+    else if (obj->material == REFRACTIVE) { /* Ideal dielectric refraction */
+        ray r_reflect = ray_init(x, vec3_sub(r.d, vec3_mulf(n, 2 * vec3_dot(n, r.d))));
+        vec3 tdir;
+        ray r_transmit;
+        bool into = vec3_dot(n, nl) > 0; /* Whether ray from outside going in */
+        double nc = 1, nt = 1.5, nnt = into ? nc / nt : nt / nc, ddn = vec3_dot(r.d, nl), cos2t;
+        double a, b, R0, c;
+        double Re, Tr, P, RP, TP;
+        if ((cos2t = 1 - nnt * nnt * (1 - ddn * ddn)) < 0) /* Total internal reflection */
+            return vec3_add(obj->emission, vec3_mul(f, radiance(r_reflect, depth, xi)));
+        tdir = vec3_unit(vec3_sub(vec3_mulf(r.d, nnt), vec3_mulf(n, ((into ? 1 : -1) * (ddn * nnt + sqrt(cos2t))))));
+        r_transmit = ray_init(x, tdir);
+        a = nt - nc, b = nt + nc, R0 = a * a / (b * b), c = 1 - (into ? -ddn : vec3_dot(tdir, n));
+        Re = R0 + (1 - R0) * c * c * c * c * c, Tr = 1 - Re, P = .25 + .5 * Re, RP = Re / P, TP = Tr / (1 - P);
+        return vec3_add(obj->emission, vec3_mul(f, (depth > 2 ? (erand48(xi) < P ? /* Russian roulette */
+            vec3_mulf(radiance(r_reflect, depth, xi), RP) : vec3_mulf(radiance(r_transmit, depth, xi), TP)) : 
+            vec3_add(vec3_mulf(radiance(r_reflect, depth, xi), Re), vec3_mulf(radiance(r_transmit, depth, xi), Tr)))));
+    }
+    else
+        return vec3_init(0, 0, 0);
+}
+time_t programstart;
+vec3 *globalimg;
+int samples_per_pixel;
+ray camera;
+vec3 cx;
+vec3 cy;
+#define IMGWIDTH 1024
+#define IMGHEIGHT 768
+void* partlyRender( void *arg ) 
+{  
+    time_t subendtime;
+    int *argi=(int*)arg;
+    int starty,endy;
+    int y, x, sy, sx, s,i;
+    
+    starty=argi[0];
+    endy=argi[1];
+    printf("i'm going to handle %d to %d.\n",starty,endy);
+
+   /*  接下来是正儿八经的多线程处理 */
+for (y = starty; y < endy; ++y) {
+        unsigned short xi[3] = { 0, 0 }; 
+        xi[2] = y * y * y;
+        for (x = 0; x < IMGWIDTH; ++x) {
+            i = (IMGHEIGHT - y - 1) * IMGWIDTH + x;
+            for (sy = 0; sy < 2; ++sy) {
+                for (sx = 0; sx < 2; ++sx) {
+                    vec3 accumulated_color = vec3_init(0, 0, 0);
+                    for (s = 0; s < samples_per_pixel; s++) {
+                        /* Randomly generate a ray from camera */
+                        ray camera_ray = generate_ray(&camera, xi, IMGWIDTH, IMGHEIGHT, 
+                                                      x, y, &cx, &cy, sx, sy);
+                        /* Trace the ray and compute the color */
+                        vec3 camera_ray_color = radiance(camera_ray, 0, xi);
+                        /* Add the color to `accumulated_color` for this subpixel */
+                        accumulated_color = vec3_add(accumulated_color, vec3_mulf(camera_ray_color, (1. / samples_per_pixel)));
+                    }
+                    /* Add `accumulated_color` for this subpixel to the color for the image pixel, which can be imagined as 1 = 0.25 * 4 */
+                    globalimg[i] = vec3_add(globalimg[i], vec3_mulf(vec3_init(clamp(accumulated_color.x), clamp(accumulated_color.y), clamp(accumulated_color.z)), .25));
+                }
+            }
+        }
+    }
+
+
+
+    /* 最后报告运行消息 */
+    subendtime=time(NULL);
+    printf("SubProcessFinishAt %ld\n",subendtime-programstart);
+    return NULL;
+}  
+
+/**
+ * @brief You never need to understand the ray tracing algorithm, 
+ *        but you can still make it parallel by using pthread.
+ * 
+ * @details Given the image settings, camera settings and scene settings, 
+ *          trace rays from camera into the scene and output an amazing image of the scene.
+ */
+
+int main(int argc, char *argv[]) {
+    /* Image settings */
+    int image_width = 1024;
+    int image_height = 768;
+    vec3 *image = malloc(sizeof(vec3) * image_width * image_height);
+
+
+    /* Ray tracing */
+    int i;
+    time_t programendtime;
+    pthread_t sps[4];
+    int yrange[4][2],quatery;
+    /* Camera settings */
+    camera = ray_init(vec3_init(50, 52, 295.6), vec3_unit(vec3_init(0, -0.042612, -1)));
+    cx = vec3_init(image_width * .5135 / image_height, 0, 0);
+    cy = vec3_mulf(vec3_unit(vec3_cross(cx, camera.d)), .5135);
+    samples_per_pixel = argc == 2 ? atoi(argv[1]) / 4 : 1;
+    memset(image, 0, sizeof(vec3) * image_width * image_height);
+    globalimg=image;
+    programstart=time(NULL);
+    /*  分配任务开始*/
+    quatery=image_height/4;
+    for(i=0;i<4;i++)
+    {
+        yrange[i][0]=i==0?0:yrange[i-1][1];
+        yrange[i][1]=i==3?image_height:yrange[i][0]+quatery;
+
+    }
+
+pthread_create( sps+0, NULL, partlyRender, yrange[0] ); 
+pthread_create( sps+1, NULL, partlyRender, yrange[1] ); 
+pthread_create( sps+2, NULL, partlyRender, yrange[2] ); 
+pthread_create( sps+3, NULL, partlyRender, yrange[3] ); 
+
+
+    pthread_join( sps[0] ,NULL);  
+    pthread_join( sps[1] ,NULL);  
+    pthread_join( sps[2] ,NULL);  
+    pthread_join( sps[3] ,NULL);  
+    programendtime=time(NULL);
+    printf("subprocessFinishWith %ld\n",programendtime-programstart);
+    /* Write the image from memory to image.ppm */
+    write_image("image.ppm", image, image_width, image_height);
+    free(image);
+
+    return 0;
+}
