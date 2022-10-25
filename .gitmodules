@@ -7,3 +7,6 @@
 [submodule "CS181 Artificial Intelligence I/Project-2"]
 	path = CS181 Artificial Intelligence I/Project-2
 	url = https://github.com/arnoliudaxia/ai-project-2.git
+[submodule "CS100 Introduction to Programming\\"]
+	path = CS100 Introduction to Programming\\
+	url = https://github.com/arnoliudaxia/CS100Homework.git
