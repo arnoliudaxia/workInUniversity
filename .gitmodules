@@ -16,3 +16,6 @@
 [submodule "CS181 Artificial Intelligence I\\Project-1B"]
 	path = CS181 Artificial Intelligence I\\Project-1B
 	url = https://github.com/arnoliudaxia/ai-project1B.git
+[submodule "CS181 Artificial Intelligence I\\Project-1A"]
+	path = CS181 Artificial Intelligence I\\Project-1A
+	url = https://github.com/arnoliudaxia/ai-project1A
