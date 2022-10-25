@@ -10,3 +10,6 @@
 [submodule "CS100 Introduction to Programming\\"]
 	path = CS100 Introduction to Programming\\
 	url = https://github.com/arnoliudaxia/CS100Homework.git
+[submodule "CS100 Introduction to Programming"]
+	path = CS100 Introduction to Programming
+	url = https://github.com/arnoliudaxia/CS100Homework.git
