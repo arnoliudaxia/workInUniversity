@@ -1,5 +1,0 @@
-﻿  vector.c
-C:\Users\Arnoliu\Desktop\快速临时处理文件夹\vector.c(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
-C:\Users\Arnoliu\Desktop\快速临时处理文件夹\vector.c(125,27): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
-C:\Users\Arnoliu\Desktop\快速临时处理文件夹\vector.c(35): warning C4172: 返回局部变量或临时变量的地址: v
-  CS101HW2.vcxproj -> C:\Users\Arnoliu\source\repos\CS101HW2\x64\Debug\CS101HW2.exe
