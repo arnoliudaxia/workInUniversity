@@ -22,3 +22,6 @@
 [submodule "SI100b 信息学导论/Project-AI"]
 	path = SI100b 信息学导论/Project-AI
 	url = https://github.com/arnoliudaxia/aiProject.git
+[submodule "CS171 计算机图形学/assignment-2"]
+	path = CS171 计算机图形学/assignment-2
+	url = https://github.com/arnoliudaxia/CS171-assignment2.git
