@@ -25,6 +25,3 @@
 [submodule "CS171 计算机图形学/assignment-2"]
 	path = CS171 计算机图形学/assignment-2
 	url = https://github.com/arnoliudaxia/CS171-assignment2.git
-[submodule "CS171 计算机图形学\\assignment-1"]
-	path = CS171 计算机图形学\\assignment-1
-	url = https://github.com/arnoliudaxia/CS171-assignment1.git
