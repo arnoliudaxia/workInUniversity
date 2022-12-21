@@ -22,8 +22,11 @@
   ---
   **YOU ONLY NEED THIS**
   这些是最有价值的资源
+  
   [GAMES101: 现代计算机图形学入门](https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html)
+  
   OpenGL的去https://learnopengl.com/
+  
   实践代码直接看python开源库TaiChi的源码即可
 
 
