@@ -13,11 +13,11 @@
 [submodule "CS100 Introduction to Programming"]
 	path = CS100 Introduction to Programming
 	url = https://github.com/arnoliudaxia/CS100Homework.git
-[submodule "CS181 Artificial Intelligence I\\Project-1B"]
-	path = CS181 Artificial Intelligence I\\Project-1B
+[submodule "CS181 Artificial Intelligence I/Project-1B"]
+	path = CS181 Artificial Intelligence I/Project-1B
 	url = https://github.com/arnoliudaxia/ai-project1B.git
-[submodule "CS181 Artificial Intelligence I\\Project-1A"]
-	path = CS181 Artificial Intelligence I\\Project-1A
+[submodule "CS181 Artificial Intelligence I/Project-1A"]
+	path = CS181 Artificial Intelligence I/Project-1A
 	url = https://github.com/arnoliudaxia/ai-project1A
 [submodule "SI100b 信息学导论/Project-AI"]
 	path = SI100b 信息学导论/Project-AI
