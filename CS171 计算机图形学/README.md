@@ -29,6 +29,13 @@
   
   实践代码直接看python开源库TaiChi的源码即可
 
+  ---
+  
+  教科书
+
+  [![pSs48vF.jpg](https://s1.ax1x.com/2023/02/03/pSs48vF.jpg)](https://imgse.com/i/pSs48vF)
+  
+  下载地址：https://bafybeibtksrpkkbsk3i5ldgy6jmeimola2c37ftikqrmyxlp3wxghnicxq.ipfs.dweb.link/fundamentals-of-computer-graphics-4th.pdf
 
 
 
