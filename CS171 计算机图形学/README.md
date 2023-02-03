@@ -37,6 +37,14 @@
   
   下载地址：https://bafybeibtksrpkkbsk3i5ldgy6jmeimola2c37ftikqrmyxlp3wxghnicxq.ipfs.dweb.link/fundamentals-of-computer-graphics-4th.pdf
 
+  ---
+
+  Record课程录像
+
+  https://shanghaitecheducn-my.sharepoint.com/:f:/g/personal/liuyf7_shanghaitech_edu_cn/EnQEn7GbrMBKqy8elvCymS8BMUBpqytBloQkReoiy0dg-w?e=Q1asai
+
+  🚨DMCA Warning! 课程录像的版权归属于CS171 stuff，录制仅作为交流学习目的，只能在线观看禁止下载。
+
 
 
 
