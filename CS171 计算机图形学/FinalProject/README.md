@@ -1,6 +1,6 @@
 ## 🎯  目标
 
-[![image.png](https://i.postimg.cc/PJvdwK8V/image.png)](https://postimg.cc/wRHKKX2D)
+![image.png](https://i.postimg.cc/PJvdwK8V/image.png)
 
 主要参考[《Iterative Dynamics with Temporal Coherence》](https://www.gamedevs.org/uploads/iterative-dynamics-with-temporal-coherence.pdf)（Erin Catto）实现**Massive RigidBody Simulation**。
 <p style="color:grey">备注：作者的PPT在https://box2d.org/files/ErinCatto_IterativeDynamicsSlides_GDC2005.pdf</p>
