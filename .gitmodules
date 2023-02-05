@@ -40,3 +40,6 @@
 [submodule "CS120 计算机网络/Project代码仓库"]
 	path = CS120 计算机网络/Project代码仓库
 	url = https://github.com/arnoliudaxia/CS120SoundCommunication.git
+[submodule "CS181 Artificial Intelligence I/Project-6"]
+	path = CS181 Artificial Intelligence I/Project-6
+	url = https://github.com/arnoliudaxia/ai-project6.git
