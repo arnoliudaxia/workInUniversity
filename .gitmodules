@@ -34,3 +34,6 @@
 [submodule "CS171 计算机图形学/assignment-5"]
 	path = CS171 计算机图形学/assignment-5
 	url = https://github.com/arnoliudaxia/-CS171-assignment5.git
+[submodule "CS171 计算机图形学/FinalProject/源代码"]
+	path = CS171 计算机图形学/FinalProject/源代码
+	url = https://github.com/arnoliudaxia/CS171-final-project.git
