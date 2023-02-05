@@ -16,3 +16,6 @@ Presentation ：1/11
 - 详细地介绍你们做了什么以及实现细节
 - 提供一些图片证明你们的工作
 - 团队的分工
+
+## Demo
+[![](demo.jpg)](https://www.bilibili.com/video/BV1q8411M71b/)
