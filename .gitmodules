@@ -37,3 +37,6 @@
 [submodule "CS171 计算机图形学/FinalProject/源代码"]
 	path = CS171 计算机图形学/FinalProject/源代码
 	url = https://github.com/arnoliudaxia/CS171-final-project.git
+[submodule "CS120 计算机网络/Project代码仓库"]
+	path = CS120 计算机网络/Project代码仓库
+	url = https://github.com/arnoliudaxia/CS120SoundCommunication.git
