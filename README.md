@@ -16,3 +16,4 @@
 - SI120 [Discrete Mathematics](https://i-techx.github.io/iTechX/courses?course_code=SI120)
 - EE150 [Signals and Systems](https://i-techx.github.io/iTechX/courses?course_code=EE150)
 - CS171 [Computer Graphics I(计算机图形学I)](https://faculty.sist.shanghaitech.edu.cn/faculty/liuxp/course/cs171.01/)
+- CS120 [Computer Network (计算机网络)](https://i-techx.github.io/iTechX/courses?course_code=CS120)
