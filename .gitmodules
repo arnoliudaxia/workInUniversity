@@ -43,3 +43,6 @@
 [submodule "CS181 Artificial Intelligence I/Project-6"]
 	path = CS181 Artificial Intelligence I/Project-6
 	url = https://github.com/arnoliudaxia/ai-project6.git
+[submodule "CS181 Artificial Intelligence I/Project-4:Ghostbusters"]
+	path = CS181 Artificial Intelligence I/Project-4:Ghostbusters
+	url = https://github.com/arnoliudaxia/Project-4.-Ghostbusters.git
