@@ -18,4 +18,4 @@ Presentation ：1/11
 - 团队的分工
 
 ## Demo
-[![](demo.jpg)](https://www.bilibili.com/video/BV1q8411M71b/)
+[![demo](demo.jpg)](https://www.bilibili.com/video/BV1q8411M71b/)
