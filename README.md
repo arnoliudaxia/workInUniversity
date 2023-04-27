@@ -1,4 +1,4 @@
-# workInUniversity
+# 我在上海科技大学的噢啦日子！
 
 这是在大学里的学习记录哦💯(っ °Д °;)っ
 
@@ -18,3 +18,8 @@
 - CS171 [Computer Graphics I(计算机图形学I)](https://faculty.sist.shanghaitech.edu.cn/faculty/liuxp/course/cs171.01/)
 - CS120 [Computer Network (计算机网络)](https://i-techx.github.io/iTechX/courses?course_code=CS120)
 - CS181 [Artificial Intelligence I(人工智能1)](https://i-techx.github.io/iTechX/courses?course_code=CS181)
+
+
+有关于课程或其他方面的问题，可以通过Github Account上的邮箱等方式联系我，诶嘿。
+
+![2231](vendi.webp)
