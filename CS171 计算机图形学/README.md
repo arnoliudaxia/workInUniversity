@@ -45,6 +45,8 @@
 
   🚨DMCA Warning! 课程录像的版权归属于CS171 stuff，录制仅作为交流学习目的，只能在线观看禁止下载。
 
+  ---
+  我的Assignment的报告都是由overleaf构建的，现在我已经将overleaf的项目打包上传到该目录下的overleaf文件夹
 
 
 
