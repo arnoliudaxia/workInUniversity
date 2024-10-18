@@ -52,3 +52,6 @@
 [submodule "SHtechNetLoginer"]
 	path = SHtechNetLoginer
 	url = https://github.com/arnoliudaxia/SHtechNetLoginer.git
+[submodule "CS290U/deep-burst-sr"]
+	path = CS290U/deep-burst-sr
+	url = https://github.com/arnoliudaxia/deep-burst-sr.git
