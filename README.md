@@ -22,4 +22,10 @@
 
 有关于课程或其他方面的问题，可以通过Github Account上的邮箱等方式联系我，诶嘿。
 
+## 非课程部分
+
+在此记录一些和上科大相关但非上科大课程的项目
+
+- ShanghaiTech-administration-equipment-automation 设备与资产管理处的服务
+
 ![2231](vendi.webp)

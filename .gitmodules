@@ -46,3 +46,6 @@
 [submodule "CS181 Artificial Intelligence I/Project-4:Ghostbusters"]
 	path = CS181 Artificial Intelligence I/Project-4:Ghostbusters
 	url = https://github.com/arnoliudaxia/Project-4.-Ghostbusters.git
+[submodule "ShanghaiTech-administration-equipment-automation"]
+	path = ShanghaiTech-administration-equipment-automation
+	url = https://github.com/arnoliudaxia/ShanghaiTech-administration-equipment-automation.git
