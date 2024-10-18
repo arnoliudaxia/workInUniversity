@@ -27,5 +27,6 @@
 在此记录一些和上科大相关但非上科大课程的项目
 
 - ShanghaiTech-administration-equipment-automation 设备与资产管理处的服务
+- SHtechNetLoginer 上科大网络自动认证
 
 ![2231](vendi.webp)

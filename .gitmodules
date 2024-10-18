@@ -49,3 +49,6 @@
 [submodule "ShanghaiTech-administration-equipment-automation"]
 	path = ShanghaiTech-administration-equipment-automation
 	url = https://github.com/arnoliudaxia/ShanghaiTech-administration-equipment-automation.git
+[submodule "SHtechNetLoginer"]
+	path = SHtechNetLoginer
+	url = https://github.com/arnoliudaxia/SHtechNetLoginer.git
