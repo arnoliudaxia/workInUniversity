@@ -29,5 +29,6 @@
 
 - ShanghaiTech-administration-equipment-automation 设备与资产管理处的服务
 - SHtechNetLoginer 上科大网络自动认证
+- ShanghaiTech-AI-Cluster-GPUcheck 查看AI集群哪些卡在哪些节点是空闲的
 
 ![2231](vendi.webp)
