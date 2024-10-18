@@ -55,3 +55,6 @@
 [submodule "CS290U/deep-burst-sr"]
 	path = CS290U/deep-burst-sr
 	url = https://github.com/arnoliudaxia/deep-burst-sr.git
+[submodule "ShanghaiTech-AI-Cluster-GPUcheck"]
+	path = ShanghaiTech-AI-Cluster-GPUcheck
+	url = https://github.com/arnoliudaxia/ShanghaiTech-AI-Cluster-GPUcheck.git
