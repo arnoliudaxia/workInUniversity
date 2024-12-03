@@ -1,5 +1,7 @@
 # 我在上海科技大学的噢啦日子！
 
+![ShtechLogo](https://seekvectorlogo.com/wp-content/uploads/2020/03/shanghaitech-university-vector-logo.png)
+
 这是在大学里的学习记录哦💯(っ °Д °;)っ
 
 此repo记录了在Shanghai Tech课程中的一些work成果，引用了其他一些子仓库。
