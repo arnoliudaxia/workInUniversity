@@ -58,3 +58,6 @@
 [submodule "ShanghaiTech-AI-Cluster-GPUcheck"]
 	path = ShanghaiTech-AI-Cluster-GPUcheck
 	url = https://github.com/arnoliudaxia/ShanghaiTech-AI-Cluster-GPUcheck.git
+[submodule "CS290T"]
+	path = CS290T
+	url = https://github.com/arnoliudaxia/CS290T.git
