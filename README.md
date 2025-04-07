@@ -1,6 +1,6 @@
 # 我在上海科技大学的噢啦日子！
 
-![ShtechLogo](https://seekvectorlogo.com/wp-content/uploads/2020/03/shanghaitech-university-vector-logo.png)
+![ShtechLogo](shanghaitech-university-vector-logo.png)
 
 这是在大学里的学习记录哦💯(っ °Д °;)っ
 
@@ -21,6 +21,7 @@
 - CS120 [Computer Network (计算机网络)](https://i-techx.github.io/iTechX/courses?course_code=CS120)
 - CS181 [Artificial Intelligence I(人工智能1)](https://i-techx.github.io/iTechX/courses?course_code=CS181)
 - CS290U 深度学习工程实践
+- CS290T 强化学习工程实践
 
 
 有关于课程或其他方面的问题，可以通过Github Account上的邮箱等方式联系我，诶嘿。
